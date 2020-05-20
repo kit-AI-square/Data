@@ -19,7 +19,7 @@ Root
 
         Subject1                [Subject]
 
-            Vital_evnet.mat         [Meta data]
+            Vital_event.mat         [Meta data]
 
             Vital Signal    
 
