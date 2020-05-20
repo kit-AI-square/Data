@@ -1,6 +1,3 @@
-# 
-
-AI-based User Adaptive Interaction Laboratory
 
 ![github_logo](https://github.com/kit-AI-square/Data/blob/master/AIsquare_Logo.png)
 
